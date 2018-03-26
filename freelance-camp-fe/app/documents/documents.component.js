@@ -16,21 +16,21 @@ var DocumentsComponent = /** @class */ (function () {
                 description: "asdfasdfasdf asdfasdf asdf",
                 file_url: 'http://google.com',
                 updated_at: '2/16/18',
-                image_url: 'http://google.com'
+                image_url: 'https://upload.wikimedia.org/wikipedia/commons/d/d5/Mistakes-to-avoid-when-hiring-freelancers.jpg'
             },
             {
                 title: "My second doc",
                 description: "asdfasdfasdf asdfasdf asdf",
                 file_url: 'http://google.com',
                 updated_at: '2/16/18',
-                image_url: 'http://google.com'
+                image_url: 'https://upload.wikimedia.org/wikipedia/commons/d/d5/Mistakes-to-avoid-when-hiring-freelancers.jpg'
             },
             {
                 title: "My last doc",
                 description: "asdfasdfasdf asdfasdf asdf",
                 file_url: 'http://google.com',
                 updated_at: '2/16/18',
-                image_url: 'http://google.com'
+                image_url: 'https://upload.wikimedia.org/wikipedia/commons/d/d5/Mistakes-to-avoid-when-hiring-freelancers.jpg'
             },
         ];
     }
