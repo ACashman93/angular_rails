@@ -38,7 +38,7 @@ var AppModule = /** @class */ (function () {
                 proposal_show_component_1.ProposalShowComponent
             ],
             providers: [
-                document_service_1.DocumentService
+                document_service_1.DocumentService,
             ],
             bootstrap: [
                 app_component_1.AppComponent
