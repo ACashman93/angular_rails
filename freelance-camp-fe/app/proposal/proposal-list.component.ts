@@ -12,7 +12,7 @@ import { ProposalService } from './proposal.service';
   providers: [ ProposalService ]
 })
 export class ProposalListComponent implements OnInit {
-  proposals: Proposal[] = [];
+  proposals: Proposal[];
   errorMessage: string;
   mode = "Observable";
 

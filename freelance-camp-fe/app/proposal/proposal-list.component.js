@@ -17,7 +17,6 @@ var ProposalListComponent = /** @class */ (function () {
     function ProposalListComponent(proposalService, router) {
         this.proposalService = proposalService;
         this.router = router;
-        this.proposals = [];
         this.mode = "Observable";
     }
     ProposalListComponent.prototype.ngOnInit = function () {
